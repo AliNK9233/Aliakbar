@@ -9,7 +9,7 @@ html {
 body {
     padding: 0;
     margin: 0;
-    background: #FFF;
+    background: #f7f7f7;
     font-family: 'Open Sans', sans-serif;
 }
 body a {
@@ -117,7 +117,7 @@ header {
     position: absolute;
     z-index: 9;
     width: 100%;
-    background: #282828;
+    background: #333;
     padding: 1em 0;
 }
 
@@ -179,11 +179,11 @@ nav ul li ul li:hover {
 /* Background color change on Hover */
 
 nav a:hover {
-    color: #EA8A95;
+    color: #e69a67;
 }
 
 .menu li.active a {
-    color: #EA8A95;
+    color: #4eb9ee;
 }
 
 /* Hide Dropdowns by Default
@@ -423,7 +423,7 @@ li > a:only-child:after {
     border-radius: 50%;
 }
 a.banner-button, button.submit {
-    background: #EA8A95;
+    background: #7773cb;
     color: #fff;
     letter-spacing: 1px;
     font-size: 1.5em;
@@ -440,7 +440,7 @@ a.banner-button, button.submit {
 }
 a.banner-button:hover {
     border:none;
-     background:#e07682;
+     background:#c185f2;
     color: #fff;
 }
 a.banner-button2 {
@@ -465,7 +465,7 @@ a.banner-button2:hover {
 }
 .agileits-services-grids i {
     font-size: 2em;
-    color: #b84373;
+    color: #b85e43;
     text-align: center;
 }
 .agileits-services-grids h4 {
@@ -1120,3 +1120,4 @@ a.banner-button, button.submit {
 }
 
 /* //responsive */
+
