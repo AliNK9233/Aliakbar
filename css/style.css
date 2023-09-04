@@ -1122,3 +1122,95 @@ a.banner-button, button.submit {
 
 /* //responsive */
 
+
+/* Styles for Experience Section */
+
+/* Styles for Experience Section */
+/* Styles for Experience Section */
+.experience {
+    background-color: #F2F2F2;
+    padding: 80px 0;
+}
+
+.experience h3 {
+    font-size: 36px;
+    color: #333;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.experience-item {
+    margin-bottom: 40px;
+}
+
+.experience-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.experience-card:hover {
+    transform: translateY(-5px);
+}
+
+.experience-card h4 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.experience-card p {
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.experience-card ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #333;
+}
+
+/* Updated Styles for Footer Section */
+.wedo {
+    background-color: #333;
+    padding: 60px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.cpy-right p {
+    margin-top: 20px;
+}
+
+.social_section_1info li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.social_section_1info a {
+    color: #fff;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+.social_section_1info a:hover {
+    color: #FF4500;
+}
+
+/* General Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+
+
